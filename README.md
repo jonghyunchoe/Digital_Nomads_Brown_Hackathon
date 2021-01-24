@@ -1,3 +1,6 @@
+# Digital Nomads
+Digital Nomads is a project based on enriching children's after school activities through a safe and online experience. The world is available at just the click of a mouse.
+
 ## Inspiration
 With travel restrictions, temporary closures of attractions, and transition to online learning, COVID-19 has altered the lifestyle of millions of families. We were inspired to see what an alternative form of travel could look like. 
 
